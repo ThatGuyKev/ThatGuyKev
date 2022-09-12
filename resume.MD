@@ -7,6 +7,7 @@ Tech guy that loves to explore and thrives for knowledge and learning new techno
 ## Work Experience
 
 **Fire Phoenix LLC**  Dubai, UAE
+    
 **Software Engineer**  _Oct 2021 to Present_
 
 -   Increased engineering staff's operating efficiency by providing structure, operating procedures, engineering tools, guidelines, and handbooks.
@@ -17,6 +18,7 @@ Tech guy that loves to explore and thrives for knowledge and learning new techno
     
 
 **Nowdeals, ASTC Dubai, UAE FMA**  Dubai, UAE
+    
 **Software Engineer**  _Jun 2020 to Oct 2021_
 
 - Responsible for delivering software with continuous delivery and maintainability for extensive test coverage, and performed continuous deployment
@@ -26,6 +28,7 @@ Tech guy that loves to explore and thrives for knowledge and learning new techno
 - Working on various platforms with different programming languages
 
 **Freelance** _Dubai UAE/Khartoum Sudan_
+    
 **Full Stack Developer** _2018-2020_
 
 -   Designing frontend and backend architecture
@@ -41,28 +44,34 @@ Technical: `Nodejs` `TypeScript`  `Solidity` `Blockchain`  `React` `Redux` `git`
 
 Familiar with: `Go` `Rust` `Web Assembly`
 
-Management: `Kanban Methodology` `Scrum`  
+Management: `Agile Methodology` `Scrum`  `Project Management`
 
 ## Open Source Projects
 
 **Facebook Chat Analysis**
+    
 Analyses natural language for Facebook chat and the timing analytics for the chat.
 
 **Saga-Go**
+    
  saga pattern implementation in GoLang.
  
 **Card Game** 
+    
  Written in rust.
  
 **ecommerce(go + node)**
+    
 ecommerce platform written in go and nodejs
 
 ## Certificates
 
 **PRINCE2 in Project Management**
+    
 Projects in Controlled Environments 2 is a process-based method for effective project management. PRINCE2 emphasises dividing projects into manageable and controllable stages.
 
 **IELTS Academic**
+    
 The International English Language Testing System, is an international standardized test of English language proficiency for non-native English language speakers.
 
 ## Education
