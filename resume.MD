@@ -4,7 +4,7 @@
 
 Tech guy that loves to explore and thrives for knowledge and learning new technologies. Fluent spoken and written in both English and Arabic
 
-## Work Experience
+## 🏢 Work Experience
 
 **Fire Phoenix LLC**  Dubai, UAE
     
@@ -38,7 +38,7 @@ Tech guy that loves to explore and thrives for knowledge and learning new techno
 -   Meeting both technical and consumer needs
     
       
-## Skills
+## 🛠️ Skills
 
 Technical: `Nodejs` `TypeScript`  `Solidity` `Blockchain`  `React` `Redux` `git` `Microservices` `Docker` `AWS`   `Terraform` 
 
@@ -46,7 +46,7 @@ Familiar with: `Go` `Rust` `Web Assembly`
 
 Management: `Agile Methodology` `Scrum`  `Project Management`
 
-## Open Source Projects
+## 💻 Open Source Projects
 
 **Facebook Chat Analysis**
     
@@ -64,7 +64,7 @@ Analyses natural language for Facebook chat and the timing analytics for the cha
     
 ecommerce platform written in go and nodejs
 
-## Certificates
+## 🎓 Certificates
 
 **PRINCE2 in Project Management**
     
@@ -74,7 +74,7 @@ Projects in Controlled Environments 2 is a process-based method for effective pr
     
 The International English Language Testing System, is an international standardized test of English language proficiency for non-native English language speakers.
 
-## Education
+## 📚 Education
 
 **Future University** _2015 - 2019_
 
