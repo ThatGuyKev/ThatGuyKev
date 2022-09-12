@@ -6,8 +6,8 @@ Tech guy that loves to explore and thrives for knowledge and learning new techno
 
 ## Work Experience
 
-**Software Engineer**  _Oct 2021 to Present_
 **Fire Phoenix LLC**  Dubai, UAE
+**Software Engineer**  _Oct 2021 to Present_
 
 -   Increased engineering staff's operating efficiency by providing structure, operating procedures, engineering tools, guidelines, and handbooks.
     
@@ -16,16 +16,18 @@ Tech guy that loves to explore and thrives for knowledge and learning new techno
 -   Supported the engineering and product teams to achieve a high level of technical quality, reliability, and ease-of-use.
     
 
-**Software Engineer**  _Jun 2020 to Oct 2021_
 **Nowdeals, ASTC Dubai, UAE FMA**  Dubai, UAE
+**Software Engineer**  _Jun 2020 to Oct 2021_
+
 - Responsible for delivering software with continuous delivery and maintainability for extensive test coverage, and performed continuous deployment
 - Designing client-side and server-side architecture and building UIs for applications
 - Developing and managing well-functioning databases and applications
 - Designing and developing tools for managing the infrastructure and write re-usable components or code
 - Working on various platforms with different programming languages
 
-**Full Stack Developer** _2018-2020_
 **Freelance** _Dubai UAE/Khartoum Sudan_
+**Full Stack Developer** _2018-2020_
+
 -   Designing frontend and backend architecture
 -   Creating servers and databases for functionality
 -   Ensuring responsiveness of applications
