@@ -1,4 +1,5 @@
 
+  
 # Ahmed Abdalla
 <span><span>Email: **ahmed_aallah@hotmail.com**</span><span> GitHub: **github.com/ThatGuyKev**</span>  <span>Phone: **+971585873473**</span> 
 
@@ -10,20 +11,29 @@ Tech guy that loves to explore and thrives for knowledge and learning new techno
     
 **Software Engineer**  _Oct 2021 to Present_
 
--   Increased engineering staff's operating efficiency by providing structure, operating procedures, engineering tools, guidelines, and handbooks.
-    
+- Increased efficiency of the use of AWS services by providing new architecture for current products that lowered the cost to 20%
+- Architected, developed and deployed blockchain-based game using solidity (smart contracts), The Graph (indexing) React (frontend).
 -   Contributed to company-wide engineering initiatives
-    
 -   Supported the engineering and product teams to achieve a high level of technical quality, reliability, and ease-of-use.
     
+ **Main Responsibilities**
+ - Documenting and demonstrating solutions by developing documentation, flowcharts, layouts, diagrams, code comments and frameworks
+ - Improving system quality by identifying issues and developing standard operating procedures
+ - Maintaining and improving existing software and make code reviews
+ - Communicating key project details to team members and building cohesion among teams.
 
 **Nowdeals, ASTC Dubai, UAE FMA**  Dubai, UAE
-    
+
 **Software Engineer**  _Jun 2020 to Oct 2021_
+
+- Created Nowdeals' mobile and web application using nodejs, React and React Native.
+- Remade ASTC Dubai website to a modern interactive application with React Static Site Generation and made it a Progressive Web App (PWA)
+- Created a website for ACI and ICA world conference with registration functionality and a suitable CRM to support clients.
+
+**Main Responsibilities**
 
 - Responsible for delivering software with continuous delivery and maintainability for extensive test coverage, and performed continuous deployment
 - Designing client-side and server-side architecture and building UIs for applications
-- Developing and managing well-functioning databases and applications
 - Designing and developing tools for managing the infrastructure and write re-usable components or code
 - Working on various platforms with different programming languages
 
@@ -50,19 +60,19 @@ Management: `Agile Methodology` `Scrum`  `Project Management`
 
 **Facebook Chat Analysis**
     
-Analyses natural language for Facebook chat and the timing analytics for the chat.
+Analyses natural language in Facebook chat and classifies positive, negative and neutral text. Also can produce the timing analytics for the chat.
 
 **Saga-Go**
     
- saga pattern implementation in GoLang.
+Saga is a sequence of local transactions. Each local transaction updates storage and pushes a message or event to trigger the next transaction.  
  
 **Card Game** 
     
- Written in rust.
+Building blocks web-based card game with the power of Rust and Web Assembly, having a backend with rust to handle TCP connections. 
  
 **ecommerce(go + node)**
     
-ecommerce platform written in go and nodejs
+Toolkits for building fast, flexible and reliable e-commerce applications leveraging modern micro services architecture written in go with nodejs/graphql for the API 
 
 ## 🎓 Certificates
 
