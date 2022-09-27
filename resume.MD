@@ -50,7 +50,7 @@ Tech guy that loves to explore and thrives for knowledge and learning new techno
       
 ## 🛠️ Skills
 
-Technical: `Nodejs` `TypeScript`  `Solidity` `Blockchain`  `React` `Redux` `git` `Microservices` `Docker` `AWS`   `Terraform` 
+Technical: `Nodejs` `TypeScript` `gRPC` `Solidity` `Blockchain`  `React` `Redux` `git` `Microservices` `Docker` `AWS`   `Terraform` 
 
 Familiar with: `Go` `Rust` `Web Assembly`
 
