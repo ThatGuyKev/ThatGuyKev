@@ -12,7 +12,8 @@ Tech guy that loves to explore and thrives for knowledge and learning new techno
 **Software Engineer**  _Oct 2021 to Present_
 
 - Increased efficiency of the use of AWS services by providing new architecture for current products that lowered the cost to 20%
-- Architected, developed and deployed blockchain-based game using solidity (smart contracts), The Graph (indexing) React (frontend).
+- Contributed in building e-commerce platform where I built major parts of the backend using Go. 
+- Developed and deployed blockchain-based game using solidity (smart contracts), The Graph (indexing) React (frontend).
 -   Contributed to company-wide engineering initiatives
 -   Supported the engineering and product teams to achieve a high level of technical quality, reliability, and ease-of-use.
     
@@ -50,11 +51,11 @@ Tech guy that loves to explore and thrives for knowledge and learning new techno
       
 ## 🛠️ Skills
 
-Technical: `Nodejs` `TypeScript` `gRPC` `Solidity` `Blockchain`  `React` `Redux` `git` `Microservices` `Docker` `AWS`   `Terraform` 
+Technical: `Go` `Nodejs` `TypeScript` `gRPC` `Solidity` `Blockchain`  `React` `Redux` `git` `Microservices` `Docker` `AWS`   `Terraform` 
 
-Familiar with: `Go` `Rust` `Web Assembly`
+Familiar with: `Rust` `Web Assembly`
 
-Management: `Agile Methodology` `Scrum`  `Project Management`
+Management: `PRINCE2` `Agile Methodology` 
 
 ## 💻 Open Source Projects
 
@@ -68,7 +69,7 @@ Saga is a sequence of local transactions. Each local transaction updates storage
  
 **Card Game** 
     
-Building blocks web-based card game with the power of Rust and Web Assembly, having a backend with rust to handle TCP connections. 
+Building blocks web-based card game with the power of Rust and Web Assembly, having a backend with rust to handle TCP connections and Websockets. 
  
 **ecommerce(go + node)**
     
