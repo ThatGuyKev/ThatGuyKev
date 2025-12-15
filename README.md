@@ -3,13 +3,13 @@
 
 **Senior Software Engineer | Tech Lead | Backend Specialist**
 
-Engineering leader focused on building **fintech, open banking, and cloud-native systems**. I specialize in designing **secure, scalable backend platforms** and turning complex technical challenges into measurable business outcomes — from regulatory compliance to revenue growth.
+Engineering leader focused on building **innovative technologies**. I specialize in designing **secure, scalable backend platforms** and turning complex technical challenges into measurable business outcomes — from regulatory compliance to revenue growth.
 
-🏆 **Achievements & Recognition**
+🏆 **Latest Achievements & Recognition**
 
--   🥇 **1st Place Winner – Apart Research AI Forecasting Hackathon** (AI incident forecasting)
+-   🥇 **1st Place Winner – Apart Research AI Forecasting Hackathon** (AI incident forecasting, 2025)
     
--   📜 **PRINCE2® Project Manager & Practitioner (PeopleCert)**
+-   📜 **PRINCE2® Project Manager & Practitioner (PeopleCert, 2025)**
     
 
 🔬 **Research & Projects**
