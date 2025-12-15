@@ -7,7 +7,7 @@ Engineering leader focused on building **innovative technologies**. I specialize
 
 🏆 **Latest Achievements & Recognition**
 
--   🥇 **1st Place Winner – Apart Research AI Forecasting Hackathon** (AI incident forecasting, 2025)
+-   🥇 **1st Place Winner – Apart Research AI Forecasting Hackathon** (AI Incidents Forecasting, 2025)
     
 -   📜 **PRINCE2® Project Manager & Practitioner (PeopleCert, 2025)**
     
