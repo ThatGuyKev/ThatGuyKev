@@ -7,9 +7,9 @@ Engineering leader focused on building **innovative technologies**. I specialize
 
 🏆 **Latest Achievements & Recognition**
 
--   🥇 **1st Place Winner – Apart Research AI Forecasting Hackathon** (AI Incidents Forecasting, 2025)
+-   🥇 **1st Place Winner – Apart Research AI Forecasting Hackathon** (AI Incidents Forecasting)
     
--   📜 **PRINCE2® Project Manager & Practitioner (PeopleCert, 2025)**
+-   📜 **PRINCE2® Project Manager & Practitioner (PeopleCert)**
     
 
 🔬 **Research & Projects**
@@ -24,7 +24,7 @@ Engineering leader focused on building **innovative technologies**. I specialize
 
 ### 🧠 Key Skills & Technologies
 
-**Programming & Backend**  
+**Programming**  
 Go (Golang) · Rust · Python · JavaScript · TypeScript · Node.js · React
 
 **APIs & Distributed Systems**  
