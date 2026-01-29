@@ -15,9 +15,8 @@ Engineering enthusiast focused on building **innovative technologies**. I specia
 🔬 **Research & Projects**
 
 -   AI Incidents Forecasting: [https://apartresearch.com/project/ai-incidents-forecasting-w92p](https://apartresearch.com/project/ai-incidents-forecasting-w92p)
-    
--   From Hallucinations to Misalignment (EDFL Evaluation): [https://apartresearch.com/project/from-hallucinations-to-misalignment-evaluating-edfl-as-a-misalignment-checker-on-gpt4omini-and-sleeper-agents-gshe](https://apartresearch.com/project/from-hallucinations-to-misalignment-evaluating-edfl-as-a-misalignment-checker-on-gpt4omini-and-sleeper-agents-gshe)
 - **Yabi Money — Fintech Platform**: https://yabimoney.com/
+- **ASTC Dubai — Finanical Eduacation Platform**: https://www.astcdubai.com/
     
 
 ----------
