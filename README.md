@@ -1,9 +1,9 @@
 
 # Hi, I'm Ahmed Elbashir 👋
 
-**Senior Software Engineer | Tech Lead | Backend Specialist**
+**Software Generalist**
 
-Engineering leader focused on building **innovative technologies**. I specialize in designing **secure, scalable backend platforms** and turning complex technical challenges into measurable business outcomes — from regulatory compliance to revenue growth.
+Engineering enthusiast focused on building **innovative technologies**. I specialize in designing **secure, scalable backend platforms** and turning complex technical challenges into measurable business outcomes — from regulatory compliance to revenue growth.
 
 🏆 **Latest Achievements & Recognition**
 
